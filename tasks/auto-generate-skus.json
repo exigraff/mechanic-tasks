@@ -1,5 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
-  "name": "Auto-generate SKUs",
+  "name": "Auto-generate SKUs!",
   "options": {
     "product_options_to_keep_unabbreviated__array": null
   },
